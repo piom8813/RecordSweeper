@@ -24,7 +24,7 @@ We make no warranties about the work, and disclaims liability for all uses of th
 
 [RecordSweeper](http://www.recordsweeper.com/) by [Expeal](https://www.expeal.com/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at [https://github.com/Expeal/recordsweeper](https://github.com/Expeal/recordsweeper)
+Based on a work at [https://github.com/Expeal/RecordSweeper](https://github.com/Expeal/RecordSweeper)
 
 Permissions beyond the scope of this license may be available at [https://www.expeal.com/contact/](https://www.expeal.com/contact/).
 
