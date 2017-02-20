@@ -10,7 +10,7 @@ This repository stores the information on [RecordSweeper](http://www.recordsweep
 
 This is the source of all the links and instructions provided on our [Aggregators](https://www.expeal.com/recordsweeper/aggregators/) page, [Individual Sites](https://www.expeal.com/recordsweeper/individual-sites/) page, [Mugshot Sites](https://www.expeal.com/recordsweeper/mugshot-sites/) page, and our [Before You Finish](https://www.expeal.com/recordsweeper/before-you-finish/) tips.
 
-## What is the projects current state?
+## What is the project's current state?
 
 All the data on this repo is also available on [RecordSweeper](http://www.recordsweeper.com/), a completely free Google AdWords-supported webpage.
 
