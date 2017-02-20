@@ -1,5 +1,7 @@
 # Contribution Template
 
+Please use this template to let us know about a publisher we're missing. If you don't have some of the information, don't worry, we'll do our best to fill it in for you. Thanks for contributing!
+
 ## URL
 
 _Replace this text with the URL of the site you found._
