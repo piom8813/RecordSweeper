@@ -4,7 +4,7 @@ There are a few steps you should take to make sure that when you clear your publ
 
 1. *Protect your browser.* Download [HTTPS Everywhere](https://www.eff.org/HTTPS-EVERYWHERE) for your web browser. This will make sure every website you use is secure and whatever you data you transmit is encrypted.
 
-2. *Protect your information online.* Download [uBlock Origin](</a>) (not uBlock!). This is an open-source, user-supported adblocker that is the best in the business. The original uBlock was bought by a company that sells user information, so the community came together to make the origin version, bringing things back to their roots. Please don't forget to whitelist our site!
+2. *Protect your information online.* Download [uBlock Origin](https://github.com/gorhill/uBlock#installation) (not uBlock!). This is an open-source, user-supported adblocker that is the best in the business. The original uBlock was bought by a company that sells user information, so the community came together to make the origin version, bringing things back to their roots. Please don't forget to whitelist our site!
 
 3. *Protect your searches.* Consider using [StartPage](https://eu.startpage.com/) or [DuckDuckGo](https://duckduckgo.com/) instead of Google for your private searches. StartPage uses Google's search engine, giving you the same exact results, but strips all of your informaton so Google can't track you or your searches. We recommend you set up your preferences to use EU-based servers, and set it as your default search engine for your browser toolbar. DuckDuckGo has similar privacy features but provides it's own search results.
 

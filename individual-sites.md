@@ -80,7 +80,7 @@ Use [this link to opt-out](http://www.peoplefinder.com/optout.php) of PeopleFind
 
 *Rating:* Hard
 
-PeopleLookup.com uses Intelius's database. You can use [this link to opt-out](https://www.intelius.com/optout) of Intelius.com, but we recommend you use the steps on the [aggregators page](aggreagtors.md), which will ensure you opt out of PeopleLookup.com.
+PeopleLookup.com uses Intelius's database. You can use [this link to opt-out](https://www.intelius.com/optout) of Intelius.com, but we recommend you fax your information, which will ensure you opt out of PeopleLookup.com.
 
 1. Make a photocopy of your driver's license or other government-issued identification.
 
@@ -92,7 +92,7 @@ PeopleLookup.com uses Intelius's database. You can use [this link to opt-out](ht
 
 *Rating:* Hard
 
-PhonesBook.com uses Intelius's database. You can use [this link to opt-out](https://www.intelius.com/optout) of Intelius.com, but we recommend you use the steps on the [aggregators page](aggreagtors.md), which will ensure you opt out of PhonesBook.com.
+PhonesBook.com uses Intelius's database. You can use [this link to opt-out](https://www.intelius.com/optout) of Intelius.com, but we recommend you fax your information, which will ensure you opt out of PhonesBook.com.
 
 1. Make a photocopy of your driver's license or other government-issued identification.
 
@@ -196,7 +196,7 @@ TopPeopleFinder.com uses PeopleFinders.com's database. You can use [this link to
 
 Use [this link to opt-out](https://www.usa-people-search.com/manage/) of USA-People-Search.com. You'll have to follow a few steps.
 
-USIdentify.com
+## USIdentify.com
 
 *Rating:* Easy
 

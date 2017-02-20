@@ -22,7 +22,7 @@ We make no warranties about the work, and disclaims liability for all uses of th
 
 ![CC AS 4.0](_assets/cc-by-sa.png)
 
-[RecordSweeper](https://www.recordsweeper.com/) by [Expeal](https://www.expeal.com/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[RecordSweeper](http://www.recordsweeper.com/) by [Expeal](https://www.expeal.com/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Based on a work at [https://github.com/Expeal/recordsweeper](https://github.com/Expeal/recordsweeper)
 
@@ -30,13 +30,13 @@ Permissions beyond the scope of this license may be available at [https://www.ex
 
 ## Attribution
 
-* Title of work: [RecordSweeper](https://www.recordsweeper.com/)
+* Title of work: [RecordSweeper](http://www.recordsweeper.com/)
 
 * Attribute work to name: [Expeal, Inc.](https://www.expeal.com/)
 
 * Attribute work to URL: [https://www.expeal.com/](https://www.expeal.com/)
 
-* Source work URL: [https://www.recordsweeper.com/](https://www.recordsweeper.com/)
+* Source work URL: [http://www.recordsweeper.com/](http://www.recordsweeper.com/)
 
 * More permissions URL: [https://www.expeal.com/contact/](https://www.expeal.com/contact/)
 

@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository stores the information on [RecordSweeper](https://www.recordsweeper.com/), a free service offered by [Expeal](https://www.expeal.com). We hope that the general public not only uses this information, but contributes as well. The more people working together, the more likely we are to be able to *take back our privacy!*
+This repository stores the information on [RecordSweeper](http://www.recordsweeper.com/), a free service offered by [Expeal](https://www.expeal.com). We hope that the general public not only uses this information, but contributes as well. The more people working together, the more likely we are to be able to *take back our privacy!*
 
 ## What is this?
 
@@ -12,7 +12,7 @@ This is the source of all the links and instructions provided on our [Aggregator
 
 ## What is the projects current state?
 
-All the data on this repo is also available on [RecordSweeper](https://www.recordsweeper.com/), a completely free Google AdWords-supported webpage.
+All the data on this repo is also available on [RecordSweeper](http://www.recordsweeper.com/), a completely free Google AdWords-supported webpage.
 
 ## How can I get involved?
 
@@ -22,7 +22,7 @@ If you find a public record data publisher that we've missed, open an issue usin
 
 1. [Aggregators](aggregators.md) - These are the main sources for all the [individual sites](individual-sites.md). If you remove your name from these sites, you'll have removed your name from most - but not all - public record databases out there.
 
-2. [Individual Sites](individual-sites.md) - We have found the following public record data publishers. Some of them use data aggregators while others use have their own propretiary sources. You will have to remove your name from each of these databases to be portive your public records are no longer online.
+2. [Individual Sites](individual-sites.md) - We have found the following public record data publishers. Some of them use [data aggregators](aggregators.md) while others use have their own propretiary sources. You will have to remove your name from each of these databases to be portive your public records are no longer online.
 
 3. [Mugshot Sites](mugshot-sites.md) - Unlike the opt-outs of the public record databases, removing your information from mugshot sites is not as easy. Many of these websites charge several hundred dollars to remove your mugshot and other criminal history information. Some sites will remove your record for free, but that is only if you record was sealed or expunged.
 
