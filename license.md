@@ -18,7 +18,7 @@ Yes, Expeal allows anyone to copy, modify, distribute, and perform the work, eve
 
 ### Other information
 
-We make no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. When using or citing the work, you should not imply endorsement by the author or the affirmer.
+We make no warranties about the work, and disclaim liability for all uses of the work, to the fullest extent permitted by applicable law. When using or citing the work, you should not imply endorsement by the author or the affirmer.
 
 ![CC AS 4.0](_assets/cc-by-sa.png)
 
