@@ -7,3 +7,26 @@ These are marketing sites that don't display your information like [individual s
 *Rating:* Easy
 
 Use [this link to opt-out](https://optoutpreference.org/) of ALC.com.
+
+## Ameridex.com
+
+*Rating:* Hard
+
+Based on the Ameridex.com [privacy policy](https://www.ameridex.com/privacy.html), they generally only remove information related to police officers, public officials, and people with safety issues. If this applies to you, then you have to send a written opt-out request to the following address:
+
+Ameridex
+PO Box 193061
+San Francisco, CA 94119-3051
+
+## KBMG.com
+
+*Rating:* Easy
+
+You can either email or mail a request to have your information removed from the KBMG.com product. If you email your request, you need to send it to consumerassistance@kbmg.com. If you mail your request, you need to send it to the following address:
+
+Privacy Preference Department
+KBM Group
+2050 N. Greenville Ave.
+Richardson, TX 75082-4322
+
+Regardless of which option you choose, you need to include your name and address along with a statement similar to "I request that you stop using my identified information for marketing purposes."
