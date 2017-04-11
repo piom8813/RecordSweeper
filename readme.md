@@ -8,7 +8,7 @@ This repository stores the information on [RecordSweeper](http://www.recordsweep
 
 ## What is this?
 
-This is the source of all the links and instructions provided on our [Aggregators](https://www.expeal.com/recordsweeper/aggregators/) page, [Individual Sites](https://www.expeal.com/recordsweeper/individual-sites/) page, [Mugshot Sites](https://www.expeal.com/recordsweeper/mugshot-sites/) page, and our [Before You Finish](https://www.expeal.com/recordsweeper/before-you-finish/) tips.
+This is the source of all the links and instructions provided on our [Aggregators](https://www.expeal.com/recordsweeper/aggregators/) page, [Individual Sites](https://www.expeal.com/recordsweeper/individual-sites/) page, [Mugshot Sites](https://www.expeal.com/recordsweeper/mugshot-sites/) page, [Marketing Sites](marketing-sites.md) and our [Before You Finish](https://www.expeal.com/recordsweeper/before-you-finish/) tips.
 
 ## What is the project's current state?
 
@@ -26,4 +26,6 @@ If you find a public record data publisher that we've missed, open an issue usin
 
 3. [Mugshot Sites](mugshot-sites.md) - Unlike the opt-outs of the public record databases, removing your information from mugshot sites is not as easy. Many of these websites charge several hundred dollars to remove your mugshot and other criminal history information. Some sites will remove your record for free, but that is only if you record was sealed or expunged.
 
-4. [Before You Finish](before-you-finish.md) - There are a few steps you should take to make sure that when you clear your public record, it stays clear. These are the same things we do, for ourselves and our families. These are also things you should do whether you qualify to erase your criminal record or not.
+4. [Marketing Sites](marketing-sites.md) - These are marketing sites that don't display your information like [individual sites](individual-sites.md), but collect and sell it to other sites and other people, like [data aggregators](aggregators.md).
+
+5. [Before You Finish](before-you-finish.md) - There are a few steps you should take to make sure that when you clear your public record, it stays clear. These are the same things we do, for ourselves and our families. These are also things you should do whether you qualify to erase your criminal record or not.
