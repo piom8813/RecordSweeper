@@ -1,12 +1,18 @@
 # Individual Sites
 
-We have found the following public record data publishers. Some of them use [data aggregators](aggregators.md) while others use have their own propretiary sources. You will have to remove your name from each of these databases to be portive your public records are no longer online.
+We have found the following public record data publishers. Some of them use [data aggregators](aggregators.md) while others use have their own propretiary sources. You will have to remove your name from each of these databases to be sure your public records are no longer on these websites. It is important to note that removal from these databases doesn't remove your records from the original source (often either public records or newspaper/media mentions). However, most people don't even know how to get the original sources, so you make it much harder for this information to end up in the hands of people who shouldn't have it.
 
 ## Addresses.com
 
 *Rating:* Easy
 
 Use [this link to opt-out](http://www.addresses.com/optout.php) of Addresses.com.
+
+## Ancestry.com
+
+*Rating:* Medium
+
+Ancestry.com requires you create an account in order to delete information from their site. By going to the "Your Account" section of your profile, you'll be able to request partial or complete removal of your information.
 
 ## Archives.com
 
@@ -40,17 +46,42 @@ Use [this link to opt-out](http://members.everify.com/customer/terms) of eVerify
 
 4. If you have access to a fax machine, you should also fax it to (617) 507-0410.
 
+## FamilySearch.com
+
+*Rating:* Medium
+
+FamilySearch.com uses the Jesus Christ Church of Latter Day Saint's databases, so you should only show up if you are either a member or have given your information to them at some point in your life. LDS.com (as well as other associted sites, like FamilySearch.com) requires you create an account in order to delete information from each individual site. You have to go to your profile preferences and modify the setting so none of your information is allowed to be made public.
+
 ## FamilyTreeNow.com
 
 *Rating:* Medium
 
 Use [this link to opt-out](http://www.familytreenow.com/optout) of FamilyTreeNow.com. There are several steps you have to follow, all of which are outlined in the link.
 
+## Fold3.com
+
+*Rating:* Medium
+
+Fold3.com requires you create an account in order to delete information from their site. By going to the "Account Details" section of your profile, you'll be able to request partial or complete removal of your records from their website.
+
 ## FreePhoneTracer.com
 
 *Rating:* Easy
 
 FreePhoneTracer.com uses PeopleSmart's database. Use [this link to opt-out](https://www.peoplesmart.com/optout-go) of PeopleSmart.com, which will opt you out of FreePhoneTracer.com.
+
+## InstantCheckmate.com
+
+*Rating:* Easy
+
+You can either use [this link to opt-out](https://www.instantcheckmate.com/optout/) or you can mail a request to the following address:
+
+Instant Checkmate
+Attn: Opt Out
+3111 Camino Del Rio N Suite 400
+San Diego, CA 92108
+
+Regardless of which option you choose (we recommend mailing your request by a method that you can track and confirm the date and time your request was received by InstantCheckmate.com), you should provide the *exact* information they have on their website. If you mail your opt-out request, consider not only printing out the page you want removed, but making sure the exact URL is included on the request.
 
 ## LookUp.com
 
@@ -63,6 +94,12 @@ Use [this link to opt-out](http://www.lookup.com/privacy.php) of Lookup.com. The
 2. Go to [the opt-out form](http://www.lookup.com/optout.php) and follow the instructions.
 
 3. Follow up, using the same email you used to send your ID, in 6 weeks if your record has not yet been removed.
+
+## Newspapers.com
+
+*Rating:* Medium
+
+Newspapers.com requires you create an account in order to delete information from their site. By going to the "Account Details" section of your profile, you'll be able to request partial or complete removal of your clippings from their website.
 
 ## PeekYou.com
 
