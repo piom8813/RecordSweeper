@@ -8,12 +8,6 @@ We have found the following public record data publishers. Some of them use [dat
 
 Use [this link to opt-out](http://www.addresses.com/optout.php) of Addresses.com.
 
-## ALC.com
-
-*Rating:* Easy
-
-Use [this link to opt-out](https://optoutpreference.org/) of ALC.com.
-
 ## Archives.com
 
 *Rating:* Easy
