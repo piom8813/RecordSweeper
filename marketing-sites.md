@@ -30,3 +30,10 @@ KBM Group
 Richardson, TX 75082-4322
 
 Regardless of which option you choose, you need to include your name and address along with a statement similar to "I request that you stop using my identified information for marketing purposes."
+
+## Libertydata.net
+
+*Rating:* Medium
+
+Libertydata.net requires you to create an account in order to delete information from their site. By registering, you'll be able to request removal of your information. Use [this link to register](https://www.realsearch.com/register.asp) of Libertydata.net.
+
