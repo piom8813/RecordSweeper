@@ -177,6 +177,12 @@ PrivateEye.com uses PeopleFinders.com's database. You can use [this link to opt-
 
 4. Skip the step that tries to trick you into buying a report to complete the process.
 
+## Rootsweb.ancestry.com
+
+Rating: Medium
+
+You have to use Ancestry.com which requires you create an account in order to delete information from their site. By going to the "Your Account" section of your profile, you'll be able to request partial or complete removal of your information.
+
 ## Spock.com
 
 *Rating:* Hard
