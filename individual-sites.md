@@ -30,7 +30,7 @@ Use [this link to opt-out](https://www.beenverified.com/f/optout/search) of Been
 
 *Rating:* Hard
 
-Use [This link to opt-out](http://cisnationwide.com/privacy.html) and scroll down to "Removing Your Information From Our Databases" of Cisnationwide.com. If you meet these requirements:
+Use [this link to opt-out](http://cisnationwide.com/privacy.html) and scroll down to "Removing Your Information From Our Databases" of Cisnationwide.com. If you meet these requirements:
 
 1. You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
 
@@ -64,11 +64,17 @@ You may request to opt-out by submitting your information to the following fax n
  
 Opt Out Compliance Department Fax: 1-888-446-1229
 
-## Civilrecords.org
+## Classmates.com
+
+*Rating:* Easy
+
+You will need to fill out a form online which you can find [here](https://www.intelius.com/optout) of Classmates.com. You can also send in the postal mail if you prefer. For more information [click here](http://www.peopleconnect.us/privacy?miscj=CMFooter) and scroll down to "b. Intelius and US Search".
+
+## Courtrecords.org
 
 *Rating:* Hard
 
-Use [This link to opt-out](http://members.everify.com/customer/terms?tab=optout). As you can see you need to [Downmload this form](http://members.everify.com/tspec/shared/assets/data_opt_out_form.pdf) and fax them the following information.
+Courtrecords.org uses InfoPay's database. Use [this link for more information](http://www.courtrecords.org/lp_optout.php). As you can see you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
 
 Be sure to include any of the following reasons for your request:
 
@@ -82,11 +88,13 @@ Please fax or mail your Data Removal Request along with your proof of ID and cop
 
 Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
 
+InfoPay
 Opt Out Compliance Dept. 
 PO Box 130369 
 Boston, MA 02113
 
 Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
 
 ## EmailFinder.com
 
