@@ -26,6 +26,68 @@ Use [this link to opt-out](http://www.archives.com/?_act=Optout) of Archives.com
 
 Use [this link to opt-out](https://www.beenverified.com/f/optout/search) of BeenVerified.com.
 
+## Cisnationwide.com
+
+*Rating:* Hard
+
+Use [This link to opt-out](http://cisnationwide.com/privacy.html) and scroll down to "Removing Your Information From Our Databases" of Cisnationwide.com. If you meet these requirements:
+
+1. You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+
+2. You are a victim of identity theft 
+
+3. You are at risk of physical harm. 
+
+4. You have evidence the record is incorrect or expunged.
+
+You will have to fax the following:
+
+1. A written explanation for the opt out request.  Identify the specific location of Your Data on our Website, and where your personal Data is publicly available, identify one of the four conditions You enabling you to opt-out of having your personal Data removed, and describe why such personal Data that is publicly available is inaccurate and harmful.
+ 
+2. Copy of your current driver's license or state identification (this information is necessary in order for us to authenticate that the request is being made by the individual to whom the information belongs to)
+ 
+All requests must include: 
+* Full name and date of birth 
+* Aliases, if any 
+* Current address 
+* Previous addresses 
+* Phone 
+* Email address
+
+3. Specific complete details of the records you are requesting to be removed
+ 
+4. Include a print out of the records you wish to have suppressed.
+ 
+5. Copies of any applicable court orders, if any.
+ 
+You may request to opt-out by submitting your information to the following fax number:
+ 
+Opt Out Compliance Department Fax: 1-888-446-1229
+
+## Civilrecords.org
+
+*Rating:* Hard
+
+Use [This link to opt-out](http://members.everify.com/customer/terms?tab=optout). As you can see you need to [Downmload this form](http://members.everify.com/tspec/shared/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
 ## EmailFinder.com
 
 *Rating:* Easy
