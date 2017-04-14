@@ -37,3 +37,14 @@ Regardless of which option you choose, you need to include your name and address
 
 Libertydata.net requires you to create an account in order to delete information from their site. By registering, you'll be able to request removal of your information. Use [this link to register](https://www.realsearch.com/register.asp) of Libertydata.net.
 
+## Towerdata.com
+
+*Rating:* Easy
+
+Libertydata.net requires you to email them and that can be found at [This link for opt out](https://dashboard.towerdata.com/optout/) of Towerdata.com.
+
+## Aristole.com
+
+*Rating:* Easy
+
+Aristole.com, foremly known as Voterlistsonline.com, requires you to email them and that can be found at [This link for opt out](http://aristotle.com/privacy/) under "Confidentiality of Information/Correction" of Towerdata.com.
