@@ -191,6 +191,41 @@ FamilySearch.com uses the Jesus Christ Church of Latter Day Saint's databases, s
 
 Use [this link to opt-out](http://www.familytreenow.com/optout) of FamilyTreeNow.com. There are several steps you have to follow, all of which are outlined in the link.
 
+## Find-cellphonenumbers.com
+
+*Rating:* Hard
+
+To remove your records from Find-cellphonenumbers.com follow these directions:
+
+If you do not wish for your information to be searchable through their site, you need to submit an Information Removal Request. This request needs to include the following:
+
+* A written explanation for the opt-out request. Identify the specific location of your data on our Website, where your personal data is publicly available, and describe why such personal data is inaccurate and harmful. NOTE: Please submit only ONE request per individual.
+* A copy of your current driver's license or state identification (this information is necessary in order for us to authenticate that the request is being made by the individual to whom the information belongs to).
+* All requests must include:
+* Full name and date of birth
+* Aliases, if any
+* Current address
+* Previous addresses
+* Phone
+* Support@find-cellphonenumbers.com
+* Specific and complete details of the records you are requesting to be removed NOTE: Only your current and up to two previous address records may be removed.
+* Include copies of the records you wish to have suppressed.
+* Enclose copies of any applicable court orders.
+
+After you completed this, you may submit your request using the following fax number: 
+
+Opt Out Compliance Dept.
+Fax: (617) 507-0410
+>>> This Fax Number is for opt-out requests ONLY.
+
+You may also mail your request to:
+
+Opt Out Compliance Dept.
+P.O. Box 990043
+Boston, MA 02199
+
+For more information please visit [this link](http://www.find-cellphonenumbers.com/faq.aspx). 
+
 ## Fold3.com
 
 *Rating:* Medium
@@ -340,6 +375,16 @@ PO Box 130369
 Boston, MA 02113
 
 Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
+## Mylife.com
+
+*Rating:* Hard
+
+To remove your Mylife.com profile you must follow these directions:
+
+Your MyLife Public Page continues to show up in searches but premium members are able to control which information is exposed. You must be a premium member to delete information from your Public Page and original sources. Click on the “My Privacy” tab at the top of your Public Page, and click on “Exposed Private Info.” Next to each listing of exposed information there is a “remove” button. Click that button to begin the removal process.
+
+For more information please vist [this link](http://www.mylife.com/help/#gi20).
 
 ## Newspapers.com
 
@@ -626,17 +671,13 @@ Use [this link to opt-out](https://www.usa-people-search.com/manage/) of USA-Peo
 
 ## USIdentify.com
 
-*Rating:* Easy
+*Rating:* Hard
 
-USIdentify.com uses PeopleFinders.com's database. You can use [this link to opt-out](http://www.peoplefinders.com/manage) of PeopleFinders.com, which will ensure you opt out of USIdentify.com.
+To remove your records from this site please mail a request with your full name, date of birth and current city and state to: 
+1821 Q Street 
+Sacramento, CA 95811.
 
-1. Find your information.
-
-2. Click on opt-out.
-
-3. Confirm your information.
-
-4. Skip the step that tries to trick you into buying a report to complete the process.
+Please note that changes you request may not be effective immediately. We will endeavor to comply with your request as soon as reasonably possible.
 
 ## USSearch.com
 
