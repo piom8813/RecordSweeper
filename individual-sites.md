@@ -26,6 +26,12 @@ Use [this link to opt-out](http://www.archives.com/?_act=Optout) of Archives.com
 
 Use [this link to opt-out](https://www.beenverified.com/f/optout/search) of BeenVerified.com.
 
+## Catalogchoice.org
+
+*Rating:* Medium
+
+Catalogchoice.org is a site where you can opt out of any junk catalogs you may recieve through the postal mail. To find a certain cite, you have to create an account with an e-mail and password used nowhere else. Search for the catalogs you’ve received that you no longer want. Follow instructions to opt-out. This site just organizes websites, they aren’t associated with any of them. 
+
 ## Cisnationwide.com
 
 *Rating:* Hard
@@ -70,6 +76,14 @@ Opt Out Compliance Department Fax: 1-888-446-1229
 
 You will need to fill out a form online which you can find [here](https://www.intelius.com/optout) of Classmates.com. You can also send in the postal mail if you prefer. For more information [click here](http://www.peopleconnect.us/privacy?miscj=CMFooter) and scroll down to "b. Intelius and US Search".
 
+## Courtclick.com
+
+*Rating:* Hard
+
+Note that public records such as court records can be updated or corrected, but not removed unless expealed. You can expeal your record by going [here](http:///www.expeal.com/).
+
+For additional assistance you can submit support requests 24/7 [here](http://www.courtclick.com/support/).
+
 ## Courtrecords.org
 
 *Rating:* Hard
@@ -95,6 +109,55 @@ Boston, MA 02113
 
 Please allow upwards of 30 days for us to fully process your Data Removal Request.
 
+## Courtregistry.org
+
+*Rating:* Hard
+
+Courtregistry.org uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
+## Divorcerecords.org
+
+*Rating:* Hard
+
+Divorcerecords.org uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
 
 ## EmailFinder.com
 
@@ -140,6 +203,62 @@ Fold3.com requires you create an account in order to delete information from the
 
 FreePhoneTracer.com uses PeopleSmart's database. Use [this link to opt-out](https://www.peoplesmart.com/optout-go) of PeopleSmart.com, which will opt you out of FreePhoneTracer.com.
 
+## Govarrestrecords.org
+
+*Rating:* Easy
+
+Govarrestrecords.org requires you to search your name found at [this link](http://govarrestrecords.org/remove-me/). All Requests will be Manually Reviewed Before Being Removed.
+
+## Govregistry.us
+
+*Rating:* Hard
+
+Govregistry.us uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
+## Infotracer.com
+
+*Rating:* Hard
+
+Infotracer.com uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
 ## InstantCheckmate.com
 
 *Rating:* Easy
@@ -153,6 +272,38 @@ San Diego, CA 92108
 
 Regardless of which option you choose (we recommend mailing your request by a method that you can track and confirm the date and time your request was received by InstantCheckmate.com), you should provide the *exact* information they have on their website. If you mail your opt-out request, consider not only printing out the page you want removed, but making sure the exact URL is included on the request.
 
+## Jailbase.com
+
+*Rating:* Medium
+
+To opt out of Jailbase.com, you must compelete the following:
+
+1. Using the Search Page, find your record, and click on your link.
+
+2. You should now be looking at a detailed page with your arrest information on it. Towards the bottom of the page, find and click the opt-out link. Then you will be given additional instructions.
+
+## Justmugshots.com
+
+*Rating:* Medium
+
+To remove your record from Justmugshots.com you have to meet these certain limited conditions, with proof of condition being met.
+
+1. Arrested individual was a minor (under 18) at the time of arrest, or
+2. Arrested individual is now deceased, or,
+3. Arrested individual is a Georgia resident, the arrest occurred in GA, and the individual qualifies under conditions of Georgia HB150.  (please see our article on removals for Georgia arrests, here:  Page Removals for Georgia Arrests.
+
+If the above doesn't apply to you, you may be able to get a Case Update instead!
+
+A Case Update is for people who don't qualify for a removal under the conditions listed above.  This allows for an updated resolution to be added to the existing mugshot page, which indicates the outcome of the arrest.
+
+They will add a Case Update to your page when you provide proof of any 1 of the following conditions, and that proof is verified by JM Support Team:
+    -All charges against the arrested individual were dropped or otherwise not pursued OR;
+    -The arrested individual was adjudicated not guilty on all charges
+  
+Note that pre-trial diversion and similar programs do NOT qualify for any of the benefits of the Courtesy Update Programs.
+ 
+If either of the above Removal or Case Update conditions describes your situation, please send proof of condition being met, along with the link to your mugshot page, to: support@justmugshots.com.
+
 ## LookUp.com
 
 *Rating:* Hard
@@ -164,6 +315,31 @@ Use [this link to opt-out](http://www.lookup.com/privacy.php) of Lookup.com. The
 2. Go to [the opt-out form](http://www.lookup.com/optout.php) and follow the instructions.
 
 3. Follow up, using the same email you used to send your ID, in 6 weeks if your record has not yet been removed.
+
+## Marriagerecords.org
+
+*Rating:* Hard
+
+Marriagerecords.org uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
 
 ## Newspapers.com
 
@@ -195,6 +371,18 @@ PeopleLookup.com uses Intelius's database. You can use [this link to opt-out](ht
 
 3. Fax the photocopy to (425) 974-6194.
 
+## Peoplesearchnow.com
+
+*Rating:* Hard
+
+Peoplesearchnow.com requires you to fill out a form located [here](http://www.peoplesearchnow.com/Opt%20Out%20Request%20Form_PSN.docx). After completed, mail it via post mail to the following address:
+
+People Search Now
+1821 Q Street
+Sacramento, CA 95811
+
+For more information go to this [link](http://www.peoplesearchnow.com/privacy).
+
 ## PhonesBook.com
 
 *Rating:* Hard
@@ -207,17 +395,65 @@ PhonesBook.com uses Intelius's database. You can use [this link to opt-out](http
 
 3. Fax the photocopy to (425) 974-6194.
 
-## PublicRecords.com
+## Publicbackgroundchecks.com
 
 *Rating:* Hard
 
-PublicRecords.com uses Intelius's database. You can use [this link to opt-out](https://www.intelius.com/optout) of Intelius.com, but we recommend you fax your information, which will ensure you opt out of PublicRecords.com.
+To have your information remove from Publicbackgroundchecks.com, please send a letter and include the following:
 
-1. Make a photocopy of your driver's license or other government-issued identification.
+First name
+Last name
+Middle initial
+Aliases/AKAs
+Complete current address
+Complete former addresses going back 20 years
+Date of Birth - including month, day, and year
+This information will be kept confidential and is used to ensure complete suppression of your records.
+It is also very helpful to include a print out of the records that you wish to have suppressed. We respect your right to privacy and will respond as promptly as possible.
 
-2. Take the photocopy and black out your photo and your driver's license number or identification number. The only information required is your full name, address, and date of birth.
+Please send this letter to:
 
-3. Fax the photocopy to (425) 974-6194.
+Public Background Checks
+305 5th Avenue S, Suite 201
+La Crosse, WI 54601
+
+For more information, please visit [this link](http://www.publicbackgroundchecks.com/privacypolicy.aspx)
+
+## Publicrecords.com
+
+In order to opt out of Publicrecords.com they will need to verify your identity. To do this, they require a faxed or mailed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are uploading, faxing, or mailing a copy of your driver's license, they require that you cross out the photo and the driver's license number. They only need to see the name, address and date of birth. They will only use this information to process your opt out request.
+
+To submit your opt out request, please submit via fax to 425-974-6194 or submit via mail please send to PublicRecords.com to the following
+Attn: Removal
+4607 Lakeview Canyon Rd. Suite 127
+Westlake Village, CA 91361.
+
+Allow 4 to 6 weeks to process your request. They will only process opt out requests received by fax or mail and no request will be processed without complete information (i.e., name, address and date of birth). Requests for opt out will not be processed over the phone or via email.
+
+## Publicrecordscheck.com
+
+*Rating:* Hard
+
+Publicrecordscheck.com uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
 
 ## PublicRecordsNow.com
 
@@ -247,11 +483,65 @@ PrivateEye.com uses PeopleFinders.com's database. You can use [this link to opt-
 
 4. Skip the step that tries to trick you into buying a report to complete the process.
 
+
+
+## Rivoters.com
+
+*Rating:* Hard
+
+Rivoters.com requires you to fill out a form located [here](http://rivoters.com/request.txt)
+
+Don't bother wasting postage if this form is not notarized or if you cannot 
+write the webmaster's name correctly on the envelope. If you are worried
+about check forgery, sign with your other hand, so it won't match the
+signature card at the bank.
+
+Mail this form to:
+
+Tom Alciere
+67 Technology Way
+Nashua, NH 03060.
+
+##  Recordsauthority.com
+
+*Rating:* Hard
+
+Recordsauthority.com uses InfoPay's database, in whic you need to [download this form](http://www.courtrecords.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
+
 ## Rootsweb.ancestry.com
 
-Rating: Medium
+*Rating:* Medium
 
 You have to use Ancestry.com which requires you create an account in order to delete information from their site. By going to the "Your Account" section of your profile, you'll be able to request partial or complete removal of your information.
+
+## Secure.privateeye.com
+
+*Rating:* Hard
+
+This site requires you to fill out a form located [here](http://secure.privateeye.com/optout-form.pdf). After you compelted this from, mail it to the following address:
+
+Opt‐Out/PrivateEye.com
+P.O. Box 110850
+Naples, FL 34108
 
 ## Spock.com
 
@@ -276,6 +566,31 @@ Use [this link to opt-out](https://getsatisfaction.com/spoke/topics/how_can_i_su
 *Rating:* Easy
 
 Use [this link to opt-out](http://www.spokeo.com/opt_out/new) of Spokeo.com. You'll have to follow a few steps.
+
+## Staterecords.org
+
+*Rating:* Hard
+
+Staterecords.org uses InfoPay's database, in whic you need to [download this form](http://www.records.org/assets/data_opt_out_form.pdf) and fax them the following information.
+
+Be sure to include any of the following reasons for your request:
+
+* You are a state, local or federal law enforcement officer or public official and your position exposes you to a threat of death or serious bodily harm.
+* You are a victim of identity theft.
+* You are at risk of physical harm.
+* You have evidence the record is incorrect or expunged.
+* To help us locate the information you wish to be removed/withheld, you may provide us with the location of the data in question in a form of website/URL link.
+
+Please fax or mail your Data Removal Request along with your proof of ID and copies of any applicable court orders to:
+
+Fax: (617) 507-0410 (This fax number is for data opt-out requests ONLY. The Opt Out Compliance Department does not manage any customer related issues)
+
+InfoPay
+Opt Out Compliance Dept. 
+PO Box 130369 
+Boston, MA 02113
+
+Please allow upwards of 30 days for us to fully process your Data Removal Request.
 
 ## StudOrDud.com
 
@@ -348,6 +663,29 @@ Veromi.com uses PeopleFinders.com's database. You can use [this link to opt-out]
 3. Confirm your information.
 
 4. Skip the step that tries to trick you into buying a report to complete the process.
+
+## Veromi.net 
+
+Veromi.net requires you to manage or remove your public records from their database, contact them by writing a letter, signed by you (we do not accept any unsigned requests or substitute service), giving them your:
+
+First name
+Last name
+Middle initial
+Aliases and A.K.A.'s
+Complete current address
+Complete former addresses going back 20 years
+Date of Birth - including month, day, and year
+It is also very helpful to include a print out of the records that you wish to have suppressed.
+
+Please send this letter to:
+
+Opt-Out/Veromi.net
+1821 Q Street
+Sacramento, CA 95811
+
+We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed.
+
+For more information, use this [link](http://www.veromi.net/privacy.aspx?popup=true) and scroll down to "IV. CHOICE AND OPT OUT".
 
 ## ZabaSearch.com
 
